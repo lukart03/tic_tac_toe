@@ -1,16 +1,15 @@
 # tic_tac_toee
 
-A new Flutter project.
+This project is a tic-tac-toe game written in the cubit architecture.
 
-## Getting Started
+Cubit is used here to track the state of the application theme and font, 
+as well as when choosing a game mode (PVE / PVP)
 
-This project is a starting point for a Flutter application.
+The application consists of two screens (playing field, settings)
 
-A few resources to get you started if this is your first Flutter project:
+On the screen with the field, the game process takes place directly, 
+you can also select the game mode and restart the game using the corresponding buttons
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+On the settings screen, you can choose between 4 different app themes and between 4 different app fonts
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# Good luck in the game!!!
