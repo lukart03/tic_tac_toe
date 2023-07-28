@@ -1,4 +1,4 @@
-# tic_tac_toee
+# tic_tac_toe
 
 This project is a tic-tac-toe game written in the cubit architecture.
 
